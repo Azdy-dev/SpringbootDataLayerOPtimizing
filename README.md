@@ -1,4 +1,4 @@
-# SpringbootDataLayerOPtimizing
+# SpringbootDataLayerOptimizing
 This application covers persistence layer optimization key notes with sample. Also it include several cross-cutting concerns in developing.<br />
 This application can used as a basic Kotlin Spring-boot application initializer.<br />
 It includes:<br />
