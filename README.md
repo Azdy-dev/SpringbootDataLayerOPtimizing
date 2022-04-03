@@ -1,7 +1,7 @@
 # SpringbootDataLayerOPtimizing
 This project not yet completed!!<br />
 This application covers several cross-cutting concerns in developing.<br />
-This application can used as a basic Kotlin Spring-boot application initializer.<br />
+This application can be used as a basic Kotlin Spring-boot application initializer.<br />
 It includes:<br />
   1.OpenApi documentaion <br />
   2.Monitoring and health by actuator <br />
